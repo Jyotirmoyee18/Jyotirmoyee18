@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm Jyotirmoyee Mandal</h1>
 <h3 align="center">Embarking on a Journey Through ML,GenAI,Full Stack,Web Development & Quantum Theory</h3>
 <img aling="right" alt="coding" width="400" src="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
@@ -24,4 +23,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jyotirmoyee18&show_icons=true&locale=en" alt="jyotirmoyee18" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jyotirmoyee18&" alt="jyotirmoyee18" /></p>
-

@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Jyotirmoyee Mandal</h1>
 <h3 align="center">Embarking on a Journey Through ML,GenAI,Full Stack,Web Development & Quantum Theory</h3>
-<img aling="right" alt="coding" width="400" src="https://images.search.yahoo.com/search/images;_ylt=AwrOo_D6fhtnBSEY.B6JzbkF;_ylu=c2VjA3NlYXJjaARzbGsDYnV0dG9u;_ylc=X1MDOTYwNjI4NTcEX3IDMgRmcgNtY2FmZWUEZnIyA3A6cyx2OmksbTpzYi10b3AEZ3ByaWQDUFZMS1NTNmtSeU94ZENncjlCeExrQQRuX3JzbHQDMARuX3N1Z2cDMARvcmlnaW4DaW1hZ2VzLnNlYXJjaC55YWhvby5jb20EcG9zAzAEcHFzdHIDBHBxc3RybAMwBHFzdHJsAzM1BHF1ZXJ5A2FuaW1hdGVkJTIwZ2lybCUyMGNvZGluZyUyMGdpZiUyMGZvciUyMGdpdGh1YgR0X3N0bXADMTcyOTg1NTIzOQ--?p=animated+girl+coding+gif+for+github&fr=mcafee&fr2=p%3As%2Cv%3Ai%2Cm%3Asb-top&ei=UTF-8&x=wrt&type=E210US885G0#id=8&iurl=https%3A%2F%2Fmedia4.giphy.com%2Fmedia%2FRbDKaczqWovIugyJmW%2Fgiphy.gif&action=click">
+<img aling="right" alt="https://images.search.yahoo.com/search/images;_ylt=AwrOo_D6fhtnBSEY.B6JzbkF;_ylu=c2VjA3NlYXJjaARzbGsDYnV0dG9u;_ylc=X1MDOTYwNjI4NTcEX3IDMgRmcgNtY2FmZWUEZnIyA3A6cyx2OmksbTpzYi10b3AEZ3ByaWQDUFZMS1NTNmtSeU94ZENncjlCeExrQQRuX3JzbHQDMARuX3N1Z2cDMARvcmlnaW4DaW1hZ2VzLnNlYXJjaC55YWhvby5jb20EcG9zAzAEcHFzdHIDBHBxc3RybAMwBHFzdHJsAzM1BHF1ZXJ5A2FuaW1hdGVkJTIwZ2lybCUyMGNvZGluZyUyMGdpZiUyMGZvciUyMGdpdGh1YgR0X3N0bXADMTcyOTg1NTIzOQ--?p=animated+girl+coding+gif+for+github&fr=mcafee&fr2=p%3As%2Cv%3Ai%2Cm%3Asb-top&ei=UTF-8&x=wrt&type=E210US885G0#id=8&iurl=https%3A%2F%2Fmedia4.giphy.com%2Fmedia%2FRbDKaczqWovIugyJmW%2Fgiphy.gif&action=click">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jyotirmoyee18&label=Profile%20views&color=0e75b6&style=flat" alt="jyotirmoyee18" /> </p>
 

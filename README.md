@@ -1,55 +1,122 @@
-<h1 align="center">Hi 👋, I'm Jyotirmoyee Mandal</h1>
-<h3 align="center">Embarking on a Journey Through ML,GenAI,Full Stack,Web Development & Quantum Theory</h3>
-<img aling="right" alt="coding" width="400" src="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
+# Hi 👋, I'm Jyotirmoyee Mandal
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jyotirmoyee18&label=Profile%20views&color=0e75b6&style=flat" alt="jyotirmoyee18" /> </p>
+### AI Engineer | GenAI, Agentic AI & Enterprise AI Systems
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+I build **AI-powered applications and intelligent enterprise workflows** that connect LLMs with business systems, APIs and real-world data — from RAG pipelines and multi-agent orchestration to tool calling, automation and enterprise integrations.
 
-<br/>
+[LinkedIn](https://teams.microsoft.com/l/message/48:notes/1793604950881?context=%7B%22contextType%22%3A%22chat%22%2C%22oid%22%3A%228%3Aorgid%3A5e106ac7-3e1e-49d5-82e7-e4375b37ffd6%22%7D) · [GitHub](https://github.com/jyotirmoyee18) · [Email](mailto:jyotirmoyeemandal63@gmail.com)
 
-<div align="center">
- 
- 🌱 I’m currently learning **Docker, ML, GenAI, AWS**
+---
 
- </div>
- 
-<div align="center"> 
-  <a href="mailto:Jyotirmoyeemandal63@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://linkedin.com/in/jyotirmoyee-mandal-1111j222" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-  </div>
+## Engineering Profile
 
- <hr/>
- 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
-<div align="center">
-    <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+- Build end-to-end **Generative AI and Agentic AI solutions** using LLMs, RAG, tool calling and multi-agent architectures.
+- Develop intelligent workflows with **LangChain, LangGraph and CrewAI**, integrating enterprise APIs, databases and external tools.
+- Work on **SAP Business Technology Platform (BTP)**, SAP Joule and enterprise AI integration use cases.
+- Design AI-powered automation systems involving document intelligence, OCR, information extraction and workflow orchestration.
+- Explore production-oriented AI engineering, including API development, containerization, deployment and evaluation.
 
 
-</div>
+## Selected Engineering Work
 
-<br/>
-<hr/>
+### Enterprise AI & Agentic Systems
 
+- Explore multi-agent architectures for coordinating enterprise workflows.
+- Develop tool-calling workflows that connect LLMs with APIs and business applications.
+- Work with LangGraph, LangChain and CrewAI for agent orchestration and state management.
 
+### Intelligent Document Processing & OCR
 
+- Develop document-processing workflows for handwritten and multilingual business documents.
+- Explore OCR pipelines, information extraction, structured data generation and human-in-the-loop validation.
+- Work on dynamic document extraction use cases involving operational and business workflows.
 
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
-</div>
+### SAP & Enterprise AI Integration
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jyotirmoyee18&show_icons=true&locale=en&layout=compact" alt="jyotirmoyee18" /></p>
+- Explore enterprise AI architectures using SAP BTP and SAP Joule.
+- Work on integrating AI agents with enterprise services, business data and APIs.
+- Investigate context management and coordination architectures for enterprise multi-agent systems.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jyotirmoyee18&show_icons=true&locale=en" alt="jyotirmoyee18" /></p>
+## Public & Engineering Projects
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jyotirmoyee18&" alt="jyotirmoyee18" /></p>
+| Project | Engineering Focus |
+|---|---|
+| **Multilingual Fleet Management & OCR** | Handwritten slip extraction, Indic-language OCR, trip data processing and fleet operations |
+| **Dynamic Handwritten PO Extraction** | Document intelligence, OCR, structured purchase-order extraction and SAP integration |
+| **Enterprise Operations Agent** | LangGraph, RAG, tool calling, SQL, APIs and human-in-the-loop workflows |
+| **Production LLM Gateway** | LLM integrations, FastAPI, streaming, retries, error handling and observability |
+
+## Research & Publications 📚
+
+Contributing to research in AI, intelligent document processing, speech recognition and software engineering.
+
+### 1. TransformoDocs: A Multi-Modal, Self-Improving Document Conversion System with Adaptive Capabilities
+
+- **Publication:** Book Chapter – Recent Trends in Data Analytics and Computing
+- **Chapter:** 11
+- **Authors:** Jyotirmoyee Mandal, Debjyoti Chowdhury, Kunal Halder and Kakali Das.
+
+🔗 [Read Publication – Taylor & Francis](https://www.taylorfrancis.com/chapters/edit/10.1201/9781003724995-11/transformodocs-multi-modal-self-improving-document-conversion-system-adaptive-capabilities-jyotirmoyee-mandal-debjyoti-chowdhury-kunal-halder-kakali-das)
+
+### 2. Vani-Adapt: A Zero-Shot Accent Trans-Adaptation Framework for Robust Indic Speech Recognition
+
+- **Publication:** International Journal of Image Processing and Pattern Recognition
+- **Year:** 2026
+- **Volume:** 12, Issue 1, Pages 17–22
+- **Authors:** Jyotirmoyee Mandal, Kunal Halder and Kakali Das.
+
+🔗 [Read Publication – JournalsPub](https://journalspub.com/publication/ijippr/article=26330/)
+
+### 3. CodeArena: Coding Challenge and Competition Hub
+
+- **Publication:** International Journal of Scientific Research in Science and Technology
+- **Year:** 2024
+- **Volume:** 11, Issue 18, Pages 139–144
+- **Authors:** Jyotirmoyee Mandal, Debjyoti Chowdhury, Kunal Halder and Kakali Das.
+
+🔗 [Read Publication – RePEc](https://ideas.repec.org/a/etm/ijsrst/v11y2024i18idhijsrst24111821.html)
+
+---
+
+## Technology Stack
+
+**AI & Generative AI**
+
+`Generative AI` · `LLMs` · `RAG` · `Agentic AI` · `LangChain` · `LangGraph` · `CrewAI` · `MCP` · `Tool Calling` · `Prompt Engineering`
+
+**Machine Learning & Data**
+
+`Python` · `Machine Learning` · `Deep Learning` · `PyTorch` · `TensorFlow` · `Pandas` · `NumPy` · `OpenCV` · `OCR`
+
+**Backend & Development**
+
+`FastAPI` · `Flask` · `REST APIs` · `SQL` · `MongoDB` · `JavaScript` · `React`
+
+**Cloud, Enterprise & DevOps**
+
+`SAP BTP` · `SAP Joule` · `AWS` · `Azure` · `Docker` · `Git` · `Linux` · `CI/CD`
+
+---
+
+## GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jyotirmoyee18&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jyotirmoyee18&theme=tokyonight&hide_border=true" height="165" />
+</p>
+
+## Languages & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,fastapi,flask,docker,aws,azure,git,github,linux,mongodb,mysql,react,js,html,css&perline=9" />
+</p>
+
+## Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jyotirmoyee18&theme=tokyo-night&hide_border=true" width="100%" />
+</p>
+
+<p align="center">
+  <i>Building intelligent systems, publishing research, and connecting AI with real-world enterprise problems.</i>
+</p>

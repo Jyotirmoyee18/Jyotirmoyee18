@@ -4,7 +4,7 @@
 
 I build **AI-powered applications and intelligent enterprise workflows** that connect LLMs with business systems, APIs and real-world data — from RAG pipelines and multi-agent orchestration to tool calling, automation and enterprise integrations.
 
-[LinkedIn](https://teams.microsoft.com/l/message/48:notes/1793604950881?context=%7B%22contextType%22%3A%22chat%22%2C%22oid%22%3A%228%3Aorgid%3A5e106ac7-3e1e-49d5-82e7-e4375b37ffd6%22%7D) · [GitHub](https://github.com/jyotirmoyee18) · [Email](mailto:jyotirmoyeemandal63@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/jyotirmoyee-mandal?utm_source=share_via&utm_content=profile&utm_medium=member_android) · [GitHub](https://github.com/jyotirmoyee18) · [Email](mailto:jyotirmoyeemandal63@gmail.com)
 
 ---
 
